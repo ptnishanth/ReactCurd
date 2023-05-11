@@ -1,0 +1,13 @@
+.container-add{
+    margin-top: 25px;
+}
+
+.form{
+    margin: 10px 10px 10px 10px;
+    width: 90% !important;
+}
+
+.box{
+    box-shadow: 10px !important;
+    border-radius: 20px !important; 
+}

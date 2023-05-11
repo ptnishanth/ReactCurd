@@ -1,0 +1,11 @@
+.form {
+  margin: 10px 10px 10px 10px;
+  width: 90% !important;
+}
+
+.box-shadow {
+  box-shadow: 100px !important;
+}
+.button {
+  border: none !important;
+}
